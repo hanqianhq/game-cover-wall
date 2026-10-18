@@ -1,0 +1,1515 @@
+[
+  {
+    "id": "rdr2",
+    "zh": "荒野大镖客2",
+    "en": "Red Dead Redemption 2",
+    "steam": 1174180,
+    "blurb": "西部史诗。开枪、骑马、良心不安，样样精通。",
+    "file": "rdr2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "witcher-3",
+    "zh": "巫师3：狂猎",
+    "en": "The Witcher 3: Wild Hunt",
+    "steam": 292030,
+    "blurb": "丢个硬币给猎魔人——然后在支线里再泡四十小时。",
+    "file": "witcher-3.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "baldurs-gate-3",
+    "zh": "博德之门3",
+    "en": "Baldur's Gate 3",
+    "steam": 1086940,
+    "blurb": "和动物聊天，和吸血鬼谈恋爱，一不小心发动战争。",
+    "file": "baldurs-gate-3.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "skyrim",
+    "zh": "上古卷轴5：天际",
+    "en": "The Elder Scrolls V: Skyrim",
+    "steam": 489830,
+    "blurb": "又是你，又要去救世界。先随便逛逛龙吧。",
+    "file": "skyrim.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "cyberpunk-2077",
+    "zh": "赛博朋克2077",
+    "en": "Cyberpunk 2077",
+    "steam": 1091500,
+    "blurb": "夜之城从不睡觉——你的显卡风扇大概也不会。",
+    "file": "cyberpunk-2077.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "botw",
+    "zh": "塞尔达传说：旷野之息",
+    "en": "The Legend of Zelda: Breath of the Wild",
+    "steam": null,
+    "blurb": "爬塔、烤苹果、被闪电创飞。开放世界的浪漫启蒙。",
+    "file": "botw.png",
+    "type": "stylized-placeholder",
+    "note": "Nintendo — stylized placeholder",
+    "vibe": "cozy"
+  },
+  {
+    "id": "totk",
+    "zh": "塞尔达传说：王国之泪",
+    "en": "The Legend of Zelda: Tears of the Kingdom",
+    "steam": null,
+    "blurb": "合建狂魔福音。天空、地下、地面，快乐叠乐高。",
+    "file": "totk.png",
+    "type": "stylized-placeholder",
+    "note": "Nintendo — stylized placeholder",
+    "vibe": "cozy"
+  },
+  {
+    "id": "fallout-4",
+    "zh": "辐射4",
+    "en": "Fallout 4",
+    "steam": 377160,
+    "blurb": "废土盖房、捡垃圾、顺便当上将军。",
+    "file": "fallout-4.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "hogwarts",
+    "zh": "霍格沃茨之遗",
+    "en": "Hogwarts Legacy",
+    "steam": 990080,
+    "blurb": "入学第一课：翻墙、魔咒、以及在厕所打小怪。",
+    "file": "hogwarts.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "kcd2",
+    "zh": "天国拯救2",
+    "en": "Kingdom Come: Deliverance II",
+    "steam": 1771300,
+    "blurb": "中世纪硬核体验。先学会别被马撞死。",
+    "file": "kcd2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "black-myth-wukong",
+    "zh": "黑神话：悟空",
+    "en": "Black Myth: Wukong",
+    "steam": 2358720,
+    "blurb": "西游记，但做成了有排面的并肩 Boss 巡礼。",
+    "file": "black-myth-wukong.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "elden-ring",
+    "zh": "艾尔登法环",
+    "en": "Elden Ring",
+    "steam": 1245620,
+    "blurb": "摸草？这年头先摸赐福，再被一只鸟创飞。",
+    "file": "elden-ring.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "sekiro",
+    "zh": "只狼：影逝二度",
+    "en": "Sekiro: Shadows Die Twice",
+    "steam": 814380,
+    "blurb": "弹反即正义。犹豫就会败北。",
+    "file": "sekiro.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "ds3",
+    "zh": "黑暗之魂3",
+    "en": "DARK SOULS III",
+    "steam": 374320,
+    "blurb": "再死一次就好。这句话你说过很多遍了。",
+    "file": "ds3.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "mhw",
+    "zh": "怪物猎人：世界",
+    "en": "Monster Hunter: World",
+    "steam": 582010,
+    "blurb": "查终端、拔毛、空推车。狩猎就是生活。",
+    "file": "mhw.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "mh-wilds",
+    "zh": "怪物猎人：荒野",
+    "en": "Monster Hunter Wilds",
+    "steam": 2246340,
+    "blurb": "怪很大，武器更大。新大陆继续肝。",
+    "file": "mh-wilds.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "gow",
+    "zh": "战神",
+    "en": "God of War (2018)",
+    "steam": 1593500,
+    "blurb": "父子档砍树旅行。男孩，听好了。",
+    "file": "gow.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "dmc5",
+    "zh": "鬼泣5",
+    "en": "Devil May Cry 5",
+    "steam": 601150,
+    "blurb": "Stylish！连段比发型还炸。",
+    "file": "dmc5.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "nier-automata",
+    "zh": "尼尔：机械纪元",
+    "en": "NieR:Automata",
+    "steam": 524220,
+    "blurb": "成为神吧。或者先当一个会砍又会听歌的精致机体。",
+    "file": "nier-automata.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "ghost-of-tsushima",
+    "zh": "对马岛之魂",
+    "en": "Ghost of Tsushima",
+    "steam": 2215430,
+    "blurb": "风指引方向，刀写下传说。武士很帅，忍者更高效。",
+    "file": "ghost-of-tsushima.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "minecraft",
+    "zh": "我的世界",
+    "en": "Minecraft",
+    "steam": null,
+    "blurb": "挖、搭、逛、炸。方块宇宙的永恒打工。",
+    "file": "minecraft.png",
+    "type": "stylized-placeholder",
+    "note": "Not on Steam — stylized placeholder",
+    "vibe": "cozy"
+  },
+  {
+    "id": "terraria",
+    "zh": "泰拉瑞亚",
+    "en": "Terraria",
+    "steam": 105600,
+    "blurb": "2D 的麦块灵魂，Boss 比你想象的多。",
+    "file": "terraria.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "stardew",
+    "zh": "星露谷物语",
+    "en": "Stardew Valley",
+    "steam": 413150,
+    "blurb": "辞职去种田。社交、钓鱼、挖矿，全是正事。",
+    "file": "stardew.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "civ6",
+    "zh": "文明6",
+    "en": "Sid Meier's Civilization VI",
+    "steam": 289070,
+    "blurb": "就一回合。结果天亮了。",
+    "file": "civ6.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "bannerlord",
+    "zh": "骑马与砍杀2：霸主",
+    "en": "Mount & Blade II: Bannerlord",
+    "steam": 261550,
+    "blurb": "招兵、打仗、当领主。马匹才是真主角。",
+    "file": "bannerlord.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "cities-skylines",
+    "zh": "都市天际线",
+    "en": "Cities: Skylines",
+    "steam": 255710,
+    "blurb": "修路修到怀疑人生，市民还在抱怨。",
+    "file": "cities-skylines.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "rimworld",
+    "zh": "环世界",
+    "en": "RimWorld",
+    "steam": 294100,
+    "blurb": "殖民者又精神崩溃了。故事生成器名不虚传。",
+    "file": "rimworld.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "dyson-sphere",
+    "zh": "戴森球计划",
+    "en": "Dyson Sphere Program",
+    "steam": 1366540,
+    "blurb": "从星球到星环，物流强迫症的天堂。",
+    "file": "dyson-sphere.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "tww3",
+    "zh": "全面战争：战锤3",
+    "en": "Total War: WARHAMMER III",
+    "steam": 1142710,
+    "blurb": "大地图运营 + 战场微操。鼠鼠我啊。",
+    "file": "tww3.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "sims4",
+    "zh": "模拟人生4",
+    "en": "The Sims 4",
+    "steam": 1222670,
+    "blurb": "盖房、谈恋爱、把楼梯拆了看他们怎么办。",
+    "file": "sims4.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "hollow-knight",
+    "zh": "空洞骑士",
+    "en": "Hollow Knight",
+    "steam": 367520,
+    "blurb": "地下王国又美又狠。地图开全也迷路。",
+    "file": "hollow-knight.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "silksong",
+    "zh": "丝之歌",
+    "en": "Hollow Knight: Silksong",
+    "steam": 1030300,
+    "blurb": "大黄蜂出巡。针与丝线的新旅途。",
+    "file": "silksong.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "hades",
+    "zh": "哈迪斯",
+    "en": "Hades",
+    "steam": 1145360,
+    "blurb": "逃离冥界第一百次。这次一定……大概。",
+    "file": "hades.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "slay-the-spire",
+    "zh": "杀戮尖塔",
+    "en": "Slay the Spire",
+    "steam": 646570,
+    "blurb": "再爬一层。卡组又歪了但很快乐。",
+    "file": "slay-the-spire.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "balatro",
+    "zh": "小丑牌",
+    "en": "Balatro",
+    "steam": 2379780,
+    "blurb": "德州扑克遇上肉鸽。再来一把就睡。",
+    "file": "balatro.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "vampire-survivors",
+    "zh": "吸血鬼幸存者",
+    "en": "Vampire Survivors",
+    "steam": 1794680,
+    "blurb": "站桩清屏。时间过得比血条还快。",
+    "file": "vampire-survivors.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "dead-cells",
+    "zh": "死亡细胞",
+    "en": "Dead Cells",
+    "steam": 588650,
+    "blurb": "死了就跑。这一局武器真香。",
+    "file": "dead-cells.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "isaac",
+    "zh": "以撒的结合：忏悔",
+    "en": "The Binding of Isaac: Repentance",
+    "steam": 250900,
+    "blurb": "眼泪武器，房间迷宫。幸运与绝望并存。",
+    "file": "isaac.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "dave-diver",
+    "zh": "潜水员戴夫",
+    "en": "Dave the Diver",
+    "steam": 1868140,
+    "blurb": "白天潜水，晚上寿司。打工人的治愈幻想。",
+    "file": "dave-diver.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "celeste",
+    "zh": "蔚蓝",
+    "en": "Celeste",
+    "steam": 504230,
+    "blurb": "爬山、失败、再试。关于勇气的平台杰作。",
+    "file": "celeste.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "re4r",
+    "zh": "生化危机4：重制版",
+    "en": "Resident Evil 4 Remake",
+    "steam": 2050650,
+    "blurb": "里昂又出任务了。村子比记忆里更可怕。",
+    "file": "re4r.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "detroit",
+    "zh": "底特律：化身为人",
+    "en": "Detroit: Become Human",
+    "steam": 1222140,
+    "blurb": "每个选择都在写安卓的命运。",
+    "file": "detroit.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "tlou1",
+    "zh": "最后生还者 第一部",
+    "en": "The Last of Us Part I",
+    "steam": 1888930,
+    "blurb": "末日公路片。情比子弹更重。",
+    "file": "tlou1.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "p5r",
+    "zh": "女神异闻录5皇家版",
+    "en": "Persona 5 Royal",
+    "steam": 1687950,
+    "blurb": "白天上学，晚上偷心。最潮的青春 RPG。",
+    "file": "p5r.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "dos2",
+    "zh": "神界：原罪2",
+    "en": "Divinity: Original Sin 2",
+    "steam": 435150,
+    "blurb": "对话能打架，打架能对话。经典 CRPG 盛宴。",
+    "file": "dos2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "dont-starve",
+    "zh": "饥荒",
+    "en": "Don't Starve",
+    "steam": 219740,
+    "blurb": "别饿死，别冻死，别精神崩溃。简单。",
+    "file": "dont-starve.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "subnautica",
+    "zh": "深海迷航",
+    "en": "Subnautica",
+    "steam": 264710,
+    "blurb": "漂亮的海，可怕的海。别往下看……好吧再看一眼。",
+    "file": "subnautica.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "spiderman",
+    "zh": "漫威蜘蛛侠",
+    "en": "Marvel's Spider-Man Remastered",
+    "steam": 1817070,
+    "blurb": "城市就是游乐场。摆荡过去就是正义。",
+    "file": "spiderman.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "disco-elysium",
+    "zh": "极乐迪斯科",
+    "en": "Disco Elysium",
+    "steam": 632470,
+    "blurb": "思想是技能。宿醉侦探的哲学犯罪现场。",
+    "file": "disco-elysium.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "pvz",
+    "zh": "植物大战僵尸",
+    "en": "Plants vs. Zombies",
+    "steam": 3590,
+    "blurb": "向日葵、豌豆、坚果墙。经典塔防快乐老家。",
+    "file": "pvz.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "gta5",
+    "zh": "GTA5",
+    "en": "Grand Theft Auto V",
+    "steam": 271590,
+    "blurb": "洛圣都自由犯罪模拟器。再抢一辆车就收工。",
+    "file": "gta5.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "portal-2",
+    "zh": "传送门2",
+    "en": "Portal 2",
+    "steam": 620,
+    "blurb": "现在请准备好被蛋糕欺骗。科学需要你。",
+    "file": "portal-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "half-life-alyx",
+    "zh": "半条命：阿利克斯",
+    "en": "Half-Life: Alyx",
+    "steam": 546560,
+    "blurb": "VR 里最像电影的射击。重力手套真香。",
+    "file": "half-life-alyx.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "doom-eternal",
+    "zh": "毁灭战士：永恒",
+    "en": "DOOM Eternal",
+    "steam": 782330,
+    "blurb": "撕碎地狱。配乐比子弹还吵。",
+    "file": "doom-eternal.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "l4d2",
+    "zh": "求生之路2",
+    "en": "Left 4 Dead 2",
+    "steam": 550,
+    "blurb": "四人一车，僵尸一海。别放生队友。",
+    "file": "l4d2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "cs2",
+    "zh": "反恐精英2",
+    "en": "Counter-Strike 2",
+    "steam": 730,
+    "blurb": "枪法、道具、心态。一局五分钟，一怒一下午。",
+    "file": "cs2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "pubg",
+    "zh": "绝地求生",
+    "en": "PUBG: BATTLEGROUNDS",
+    "steam": 578080,
+    "blurb": "大地图吃鸡鼻祖。决赛圈记得投烟。",
+    "file": "pubg.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "helldivers-2",
+    "zh": "绝地潜兵2",
+    "en": "HELLDIVERS 2",
+    "steam": 553850,
+    "blurb": "为了超级地球！友军误伤也是民主的一部分。",
+    "file": "helldivers-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "deep-rock",
+    "zh": "深岩银河",
+    "en": "Deep Rock Galactic",
+    "steam": 548430,
+    "blurb": "石头！矮人挖矿射击。啤酒与虫潮。",
+    "file": "deep-rock.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "forza-horizon-5",
+    "zh": "极限竞速：地平线5",
+    "en": "Forza Horizon 5",
+    "steam": 1551360,
+    "blurb": "墨西哥开放世界飙车嘉年华。",
+    "file": "forza-horizon-5.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "rocket-league",
+    "zh": "火箭联盟",
+    "en": "Rocket League",
+    "steam": 252950,
+    "blurb": "足球加赛车。空中对着来一脚。",
+    "file": "rocket-league.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "factorio",
+    "zh": "异星工厂",
+    "en": "Factorio",
+    "steam": 427520,
+    "blurb": "自动化上瘾警告。虫子只是插曲。",
+    "file": "factorio.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "satisfactory",
+    "zh": "幸福工厂",
+    "en": "Satisfactory",
+    "steam": 526870,
+    "blurb": "第一人称盖厂。传送带美学。",
+    "file": "satisfactory.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "stellaris",
+    "zh": "群星",
+    "en": "Stellaris",
+    "steam": 281990,
+    "blurb": "银河帝国养成。危机到来前先扩边境。",
+    "file": "stellaris.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "ck3",
+    "zh": "十字军之王3",
+    "en": "Crusader Kings III",
+    "steam": 1158310,
+    "blurb": "中世纪人生模拟器。联姻比打仗重要。",
+    "file": "ck3.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "aoe2",
+    "zh": "帝国时代2：决定版",
+    "en": "Age of Empires II: Definitive Edition",
+    "steam": 813780,
+    "blurb": "农民！造农民！经典即时战略回家。",
+    "file": "aoe2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "undertale",
+    "zh": "Undertale",
+    "en": "Undertale",
+    "steam": 391540,
+    "blurb": "杀或饶，都是你的选择。配乐永生。",
+    "file": "undertale.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "outer-wilds",
+    "zh": "星际拓荒",
+    "en": "Outer Wilds",
+    "steam": 753640,
+    "blurb": "22 分钟一次的宇宙循环。别剧透。",
+    "file": "outer-wilds.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "it-takes-two",
+    "zh": "双人成行",
+    "en": "It Takes Two",
+    "steam": 1426210,
+    "blurb": "夫妻档合作神作。一人走不动。",
+    "file": "it-takes-two.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "phasmophobia",
+    "zh": "恐鬼症",
+    "en": "Phasmophobia",
+    "steam": 739630,
+    "blurb": "四人探灵。证据不够就别喊名字。",
+    "file": "phasmophobia.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "lethal-company",
+    "zh": "致命公司",
+    "en": "Lethal Company",
+    "steam": 1966720,
+    "blurb": "打工捞垃圾。月亮很大，胆子要小。",
+    "file": "lethal-company.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "sf6",
+    "zh": "街头霸王6",
+    "en": "Street Fighter 6",
+    "steam": 1364780,
+    "blurb": "现代格斗入门友好。驱动冲击冲！",
+    "file": "sf6.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "tekken-8",
+    "zh": "铁拳8",
+    "en": "TEKKEN 8",
+    "steam": 1778820,
+    "blurb": "三维度连段盛宴。愤怒爆发即帅气。",
+    "file": "tekken-8.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "death-stranding",
+    "zh": "死亡搁浅",
+    "en": "Death Stranding",
+    "steam": 1190460,
+    "blurb": "送快递拯救世界。造路是浪漫。",
+    "file": "death-stranding.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "horizon-zd",
+    "zh": "地平线：零之曙光",
+    "en": "Horizon Zero Dawn",
+    "steam": 1151640,
+    "blurb": "机械恐龙猎人。弓箭与未来神话。",
+    "file": "horizon-zd.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "uncharted",
+    "zh": "神秘海域：盗贼遗迹合辑",
+    "en": "UNCHARTED: Legacy of Thieves Collection",
+    "steam": 1659420,
+    "blurb": "电影关卡跳跃。德雷克又掉下去了。",
+    "file": "uncharted.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "like-a-dragon",
+    "zh": "如龙7：光与暗的去向",
+    "en": "Yakuza: Like a Dragon",
+    "steam": 1235140,
+    "blurb": "春日一番转职 RPG。歌舞伎町最热闹。",
+    "file": "like-a-dragon.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "ff7-remake",
+    "zh": "最终幻想7 重制版",
+    "en": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "steam": 1462040,
+    "blurb": "米德加再见面。克劳德甩头发。",
+    "file": "ff7-remake.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "p4g",
+    "zh": "女神异闻录4黄金版",
+    "en": "Persona 4 Golden",
+    "steam": 1113000,
+    "blurb": "乡下推理与青春。电视里的真相。",
+    "file": "p4g.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "valheim",
+    "zh": "英灵神殿",
+    "en": "Valheim",
+    "steam": 892970,
+    "blurb": "维京生存建造。先打鹿，再打神。",
+    "file": "valheim.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "rust",
+    "zh": "锈湖？不，Rust",
+    "en": "Rust",
+    "steam": 252490,
+    "blurb": "裸体出生，全服战争。门锁很重要。",
+    "file": "rust.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "palworld",
+    "zh": "幻兽帕鲁",
+    "en": "Palworld",
+    "steam": 1623730,
+    "blurb": "抓宠、造枪、建基地。赛博牧场。",
+    "file": "palworld.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "sons-of-forest",
+    "zh": "森林之子",
+    "en": "Sons Of The Forest",
+    "steam": 1326470,
+    "blurb": "荒岛生存。开建豪华木屋。",
+    "file": "sons-of-forest.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "among-us",
+    "zh": "Among Us",
+    "en": "Among Us",
+    "steam": 945360,
+    "blurb": "谁是内鬼？紧急会议现在开始。",
+    "file": "among-us.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "no-mans-sky",
+    "zh": "无人深空",
+    "en": "No Man's Sky",
+    "steam": 275850,
+    "blurb": "宇宙很大。飞、挖、建、交朋友。",
+    "file": "no-mans-sky.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "starfield",
+    "zh": "星空",
+    "en": "Starfield",
+    "steam": 1716740,
+    "blurb": "又是你，又要登上一颗新星球。",
+    "file": "starfield.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "warframe",
+    "zh": "星际战甲",
+    "en": "Warframe",
+    "steam": 230410,
+    "blurb": "忍者空战刷宝。免费但很深。",
+    "file": "warframe.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "apex",
+    "zh": "Apex 英雄",
+    "en": "Apex Legends",
+    "steam": 1172470,
+    "blurb": "三排英雄射击。滑铲即正义。",
+    "file": "apex.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "naraka",
+    "zh": "永劫无间",
+    "en": "NARAKA: BLADEPOINT",
+    "steam": 1203220,
+    "blurb": "近战武侠吃鸡。振刀瞬间很帅。",
+    "file": "naraka.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "hades-2",
+    "zh": "哈迪斯2",
+    "en": "Hades II",
+    "steam": 1145350,
+    "blurb": "梅利诺厄出征。月光与巫术。",
+    "file": "hades-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "animal-well",
+    "zh": "动物井",
+    "en": "Animal Well",
+    "steam": 813230,
+    "blurb": "像素秘境探索。鸡蛋与谜题。",
+    "file": "animal-well.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "against-storm",
+    "zh": "对抗风暴",
+    "en": "Against the Storm",
+    "steam": 1336490,
+    "blurb": "黑暗奇幻城市建设。雨一直下。",
+    "file": "against-storm.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "metro-exodus",
+    "zh": "地铁：离乡",
+    "en": "Metro Exodus",
+    "steam": 412020,
+    "blurb": "废土列车旅行。防毒面具别忘。",
+    "file": "metro-exodus.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "control",
+    "zh": "控制",
+    "en": "Control",
+    "steam": 870780,
+    "blurb": "超能局长上班。建筑会变形。",
+    "file": "control.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "re-village",
+    "zh": "生化危机8：村庄",
+    "en": "Resident Evil Village",
+    "steam": 1196590,
+    "blurb": "伊森又来了。城堡与狼嚎。",
+    "file": "re-village.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "re2r",
+    "zh": "生化危机2：重制版",
+    "en": "Resident Evil 2",
+    "steam": 883710,
+    "blurb": "浣熊市重逢。走廊很窄，子弹很多。",
+    "file": "re2r.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "gow-ragnarok",
+    "zh": "战神：诸神黄昏",
+    "en": "God of War Ragnarök",
+    "steam": 2322010,
+    "blurb": "父子再上路。终焉之战将至。",
+    "file": "gow-ragnarok.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "spider-man-2",
+    "zh": "漫威蜘蛛侠2",
+    "en": "Marvel's Spider-Man 2",
+    "steam": 2651280,
+    "blurb": "双蛛侠摆荡纽约。共生体来了。",
+    "file": "spider-man-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "tlou2",
+    "zh": "最后生还者2",
+    "en": "The Last of Us Part II Remastered",
+    "steam": 2531310,
+    "blurb": "仇恨与循环。故事不会轻松。",
+    "file": "tlou2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "sea-of-thieves",
+    "zh": "盗贼之海",
+    "en": "Sea of Thieves",
+    "steam": 1172620,
+    "blurb": "海盗联机。藏宝图与背叛。",
+    "file": "sea-of-thieves.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "genshin",
+    "zh": "原神",
+    "en": "Genshin Impact",
+    "steam": null,
+    "blurb": "提瓦特自由旅行。",
+    "file": "genshin.png",
+    "type": "stylized-placeholder",
+    "note": "stylized placeholder",
+    "vibe": "neon"
+  },
+  {
+    "id": "star-rail",
+    "zh": "崩坏：星穹铁道",
+    "en": "Honkai: Star Rail",
+    "steam": null,
+    "blurb": "银河列车下一站。",
+    "file": "star-rail.png",
+    "type": "stylized-placeholder",
+    "note": "stylized placeholder",
+    "vibe": "neon"
+  },
+  {
+    "id": "zzz",
+    "zh": "绝区零",
+    "en": "Zenless Zone Zero",
+    "steam": 4162040,
+    "blurb": "新艾利都委托日。",
+    "file": "zzz.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "neon"
+  },
+  {
+    "id": "honkai-3rd",
+    "zh": "崩坏3",
+    "en": "Honkai Impact 3rd",
+    "steam": 1671200,
+    "blurb": "女武神出击。",
+    "file": "honkai-3rd.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "wuthering-waves",
+    "zh": "鸣潮",
+    "en": "Wuthering Waves",
+    "steam": 3513350,
+    "blurb": "漂泊者苏醒。",
+    "file": "wuthering-waves.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "neon"
+  },
+  {
+    "id": "reverse-1999",
+    "zh": "重返未来：1999",
+    "en": "Reverse: 1999",
+    "steam": 3092660,
+    "blurb": "暴雨倒转时光。",
+    "file": "reverse-1999.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "pgr",
+    "zh": "战双帕弥什",
+    "en": "Punishing: Gray Raven",
+    "steam": 4125930,
+    "blurb": "构造体三消。",
+    "file": "pgr.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "arcade"
+  },
+  {
+    "id": "nikke",
+    "zh": "胜利女神：妮姬",
+    "en": "Goddess of Victory: NIKKE",
+    "steam": 3596190,
+    "blurb": "回收地球。",
+    "file": "nikke.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "neon"
+  },
+  {
+    "id": "blue-archive",
+    "zh": "蔚蓝档案",
+    "en": "Blue Archive",
+    "steam": 3557620,
+    "blurb": "基沃托斯。",
+    "file": "blue-archive.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "cozy"
+  },
+  {
+    "id": "arknights-endfield",
+    "zh": "明日方舟：终末地",
+    "en": "Arknights: Endfield",
+    "steam": 4732690,
+    "blurb": "方舟宇宙。",
+    "file": "arknights-endfield.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "epic"
+  },
+  {
+    "id": "lies-of-p",
+    "zh": "P的谎言",
+    "en": "Lies of P",
+    "steam": 1627720,
+    "blurb": "魂系木偶。",
+    "file": "lies-of-p.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "armored-core-6",
+    "zh": "装甲核心6",
+    "en": "ARMORED CORE VI",
+    "steam": 1888160,
+    "blurb": "FromSoftware。",
+    "file": "armored-core-6.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "remnant-2",
+    "zh": "遗迹2",
+    "en": "Remnant II",
+    "steam": 1282100,
+    "blurb": "枪械魂系。",
+    "file": "remnant-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "dragons-dogma-2",
+    "zh": "龙之信条2",
+    "en": "Dragons Dogma 2",
+    "steam": 2054970,
+    "blurb": "爪牙同行。",
+    "file": "dragons-dogma-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "alan-wake-2",
+    "zh": "心灵杀手2",
+    "en": "Alan Wake 2",
+    "steam": 1937780,
+    "blurb": "手电筒。",
+    "file": "alan-wake-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "stellar-blade",
+    "zh": "剑星",
+    "en": "Stellar Blade",
+    "steam": 3489700,
+    "blurb": "爽快连招。",
+    "file": "stellar-blade.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "ff16",
+    "zh": "最终幻想16",
+    "en": "FINAL FANTASY XVI",
+    "steam": 2515020,
+    "blurb": "召唤兽。",
+    "file": "ff16.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "expedition-33",
+    "zh": "明暗33",
+    "en": "Clair Obscur Expedition 33",
+    "steam": 1903340,
+    "blurb": "法式回合制。",
+    "file": "expedition-33.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "enshrouded",
+    "zh": "雾锁王国",
+    "en": "Enshrouded",
+    "steam": 1203620,
+    "blurb": "体素建造。",
+    "file": "enshrouded.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "v-rising",
+    "zh": "夜族崛起",
+    "en": "V Rising",
+    "steam": 1604030,
+    "blurb": "吸血鬼。",
+    "file": "v-rising.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "core-keeper",
+    "zh": "核心守护者",
+    "en": "Core Keeper",
+    "steam": 1621690,
+    "blurb": "地下挖挖。",
+    "file": "core-keeper.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "grounded",
+    "zh": "禁闭求生",
+    "en": "Grounded",
+    "steam": 962130,
+    "blurb": "缩小后院。",
+    "file": "grounded.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "once-human",
+    "zh": "Once Human",
+    "en": "Once Human",
+    "steam": 2139460,
+    "blurb": "异能废土。",
+    "file": "once-human.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "hellblade-2",
+    "zh": "地狱之刃2",
+    "en": "Hellblade II",
+    "steam": 2461850,
+    "blurb": "心理恐怖。",
+    "file": "hellblade-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "persona-3-reload",
+    "zh": "人格3R",
+    "en": "Persona 3 Reload",
+    "steam": 2161700,
+    "blurb": "月夜学园。",
+    "file": "persona-3-reload.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "metaphor",
+    "zh": "幻逸传说",
+    "en": "Metaphor ReFantazio",
+    "steam": 2679460,
+    "blurb": "幻想勇者。",
+    "file": "metaphor.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "space-marine-2",
+    "zh": "战空士官2",
+    "en": "Space Marine 2",
+    "steam": 2183900,
+    "blurb": "巨型杀戮。",
+    "file": "space-marine-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "destiny-2",
+    "zh": "命运2",
+    "en": "Destiny 2",
+    "steam": 1085660,
+    "blurb": "射手科幻。",
+    "file": "destiny-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "neon"
+  },
+  {
+    "id": "pathfinder-wotr",
+    "zh": "路径寻者",
+    "en": "Pathfinder WotR",
+    "steam": 1184370,
+    "blurb": "病毒与天使。",
+    "file": "pathfinder-wotr.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "code-vein",
+    "zh": "啊哒之血",
+    "en": "CODE VEIN",
+    "steam": 678960,
+    "blurb": "吸血鬼魂系。",
+    "file": "code-vein.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "nioh-2",
+    "zh": "仁王2",
+    "en": "Nioh 2",
+    "steam": 1325200,
+    "blurb": "心魂武士。",
+    "file": "nioh-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "team-fortress-2",
+    "zh": "团队堡垒2",
+    "en": "Team Fortress 2",
+    "steam": 440,
+    "blurb": "帽子射击。",
+    "file": "team-fortress-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "dota-2",
+    "zh": "Dota 2",
+    "en": "Dota 2",
+    "steam": 570,
+    "blurb": "分路对抗。",
+    "file": "dota-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "mhrise",
+    "zh": "怪物猎人崛起",
+    "en": "Monster Hunter Rise",
+    "steam": 1446780,
+    "blurb": "大剑猎龙。",
+    "file": "mhrise.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "sea-of-stars",
+    "zh": "星之海",
+    "en": "Sea of Stars",
+    "steam": 1244090,
+    "blurb": "像素勇者。",
+    "file": "sea-of-stars.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "slay-spire-2",
+    "zh": "屠杀尖塔2",
+    "en": "Slay the Spire 2",
+    "steam": 2868840,
+    "blurb": "卡牌肉鸽。",
+    "file": "slay-spire-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "peak",
+    "zh": "PEAK",
+    "en": "PEAK",
+    "steam": 3527290,
+    "blurb": "爬山联机。",
+    "file": "peak.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "cozy"
+  },
+  {
+    "id": "repo",
+    "zh": "R.E.P.O.",
+    "en": "R.E.P.O.",
+    "steam": 3241660,
+    "blurb": "恐怖合作。",
+    "file": "repo.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "inzoi",
+    "zh": "inZOI",
+    "en": "inZOI",
+    "steam": 2456740,
+    "blurb": "人生模拟。",
+    "file": "inzoi.jpg",
+    "type": "steam-store-art",
+    "vibe": "cozy"
+  },
+  {
+    "id": "frostpunk-2",
+    "zh": "霜气朋克2",
+    "en": "Frostpunk 2",
+    "steam": 1601580,
+    "blurb": "冰封城市。",
+    "file": "frostpunk-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "manor-lords",
+    "zh": "领主",
+    "en": "Manor Lords",
+    "steam": 1363080,
+    "blurb": "中世纪建城。",
+    "file": "manor-lords.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "civ7",
+    "zh": "文明7",
+    "en": "Civilization VII",
+    "steam": 1295660,
+    "blurb": "一更回合。",
+    "file": "civ7.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "silent-hill-2",
+    "zh": "寂静岭2",
+    "en": "SILENT HILL 2",
+    "steam": 2124490,
+    "blurb": "恐怖重制。",
+    "file": "silent-hill-2.jpg",
+    "type": "steam-store-art",
+    "vibe": "souls"
+  },
+  {
+    "id": "until-dawn",
+    "zh": "直到黎明",
+    "en": "Until Dawn",
+    "steam": 2172010,
+    "blurb": "选择支恐怖。",
+    "file": "until-dawn.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "marvel-rivals",
+    "zh": "漫威争锋",
+    "en": "Marvel Rivals",
+    "steam": 2767030,
+    "blurb": "超凡对抗。",
+    "file": "marvel-rivals.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "delta-force",
+    "zh": "三角洲",
+    "en": "Delta Force",
+    "steam": 2507950,
+    "blurb": "射手进攻。",
+    "file": "delta-force.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "the-finals",
+    "zh": "THE FINALS",
+    "en": "THE FINALS",
+    "steam": 2073850,
+    "blurb": "破坏射击。",
+    "file": "the-finals.jpg",
+    "type": "steam-store-art",
+    "vibe": "arcade"
+  },
+  {
+    "id": "age-of-mythology-retold",
+    "zh": "神话时代",
+    "en": "Age of Mythology Retold",
+    "steam": 1934680,
+    "blurb": "神话科幻。",
+    "file": "age-of-mythology-retold.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  },
+  {
+    "id": "nightreign",
+    "zh": "埃尔登夜幕",
+    "en": "ELDEN RING NIGHTREIGN",
+    "steam": 2778580,
+    "blurb": "魂系联机。",
+    "file": "nightreign.png",
+    "type": "stylized-placeholder",
+    "note": "store art unavailable; stylized placeholder",
+    "vibe": "souls"
+  },
+  {
+    "id": "warhammer-tw3",
+    "zh": "全战WH3",
+    "en": "Total War WARHAMMER III",
+    "steam": 1142710,
+    "blurb": "奇幻军团。",
+    "file": "warhammer-tw3.jpg",
+    "type": "steam-store-art",
+    "vibe": "epic"
+  }
+]

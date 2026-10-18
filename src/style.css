@@ -1,0 +1,176 @@
+/* liquid-glass · unified focus panel */
+:root {
+  color-scheme: dark;
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body, #app { width: 100%; height: 100%; overflow: hidden; background: #1a2030; }
+#c { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+#c:active { cursor: grabbing; }
+body.focus-open #c { cursor: pointer; }
+
+#vignette {
+  position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  background: radial-gradient(
+    ellipse 72% 68% at 50% 48%,
+    rgba(0,0,0,0) 0%,
+    rgba(0,0,0,0) 42%,
+    rgba(0,0,0,0.18) 68%,
+    rgba(0,0,0,0.42) 86%,
+    rgba(0,0,0,0.62) 100%
+  );
+}
+
+#hud {
+  position: fixed; left: 20px; bottom: 20px; z-index: 2;
+  pointer-events: none; color: rgba(245,248,255,0.95);
+  text-shadow: 0 1px 10px rgba(0,0,0,0.35);
+  max-width: min(420px, 86vw);
+}
+#hud h1 { font-size: clamp(1.2rem, 2.2vw, 1.65rem); font-weight: 650; }
+#hud p { margin-top: 6px; font-size: 0.92rem; opacity: 0.8; }
+#hud .hint { font-size: 0.75rem; opacity: 0.55; }
+
+/* Click-catcher — card is position:fixed, pinned beside the 3D cover */
+#focus {
+  position: fixed; inset: 0; z-index: 4;
+  background: rgba(6, 10, 18, 0);
+  opacity: 0;
+  transition: opacity 0.3s ease, background 0.35s ease;
+  pointer-events: none;
+}
+#focus.show {
+  opacity: 1;
+  pointer-events: auto;
+  background: rgba(6, 10, 18, 0.38);
+}
+#focus[hidden] { display: none; }
+
+.focus-card {
+  position: fixed;
+  left: 0; top: 0;
+  display: flex;
+  flex-direction: column;
+  width: min(360px, 40vw);
+  padding: 18px 16px 14px;
+  border-radius: 18px;
+  background: rgba(16, 22, 34, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.06) inset,
+    0 18px 48px rgba(0, 0, 0, 0.45),
+    0 4px 16px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(18px) saturate(1.15);
+  -webkit-backdrop-filter: blur(18px) saturate(1.15);
+  color: #f2f5fb;
+  z-index: 5;
+  pointer-events: auto;
+  opacity: 1;
+  overflow: hidden;
+  will-change: left, top, height, opacity, transform;
+}
+@media (max-width: 800px) {
+  .focus-card { width: min(440px, 92vw); }
+}
+
+#focus.show .focus-card {
+  animation: focus-in 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes focus-in {
+  from { opacity: 0; transform: translateY(10px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+#focus-close {
+  position: absolute; top: 10px; right: 12px;
+  width: 30px; height: 30px; border: 0; border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08); color: rgba(255, 255, 255, 0.85);
+  font-size: 1.2rem; line-height: 1; cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+#focus-close:hover {
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+}
+
+#focus-title {
+  flex: none;
+  font-size: 1.2rem;
+  font-weight: 650;
+  padding-right: 36px;
+  line-height: 1.3;
+  letter-spacing: 0.01em;
+  color: #f7f9fc;
+}
+.focus-en {
+  flex: none;
+  margin-top: 4px;
+  font-size: 0.76rem;
+  opacity: 0.48;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+.focus-tags {
+  flex: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 12px;
+}
+.focus-tags[hidden] { display: none; }
+.focus-tags span {
+  max-width: 100%;
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.07);
+  color: rgba(236, 242, 252, 0.9);
+  font-size: 0.7rem;
+  line-height: 1.35;
+  letter-spacing: 0.01em;
+}
+.focus-meta {
+  flex: none;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 10px;
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+.focus-meta[hidden] { display: none; }
+#focus-review { color: rgba(236, 242, 252, 0.92); }
+#focus-review[hidden],
+#focus-year[hidden] { display: none; }
+#focus-year {
+  flex: none;
+  opacity: 0.5;
+  font-variant-numeric: tabular-nums;
+}
+#focus-blurb {
+  flex: 1 1 auto;
+  min-height: 0;
+  margin-top: 14px;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  opacity: 0.88;
+  color: rgba(232, 238, 248, 0.92);
+  overflow: auto;
+}
+.focus-hint {
+  flex: none;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.68rem;
+  opacity: 0.42;
+  letter-spacing: 0.02em;
+}
+
+#fallback {
+  position: fixed; inset: 0; z-index: 5;
+  display: grid; place-content: center; gap: 10px;
+  padding: 24px; text-align: center; background: #121722; color: #e8eef8;
+}
+#fallback[hidden] { display: none; }

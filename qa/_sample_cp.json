@@ -1,0 +1,16 @@
+{
+  "1091500": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "赛博朋克 2077",
+      "steam_appid": 1091500,
+      "required_age": "17",
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2138330,
+        1495710,
+        2060310
+      ],
+      "detailed_description": "<h1>《赛博朋克 2077：终极版》</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/d68972fb48e4603246e6da5d49239b84.avif?t=1784714077\" width=616 height=670 /></span></p></p><br><h1>关于游戏</h1><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/bc6661c7ff3744a669a1dbe1df46e23b.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/bc6661c7ff3744a669a1dbe1df46e23b.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/bc6661c7ff3744a669a1dbe1df46e23b.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1c256b705c717fdb795af513ae705ef4.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1c256b705c717fdb795af513ae705ef4.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1c256b705c717fdb795af513ae705ef4.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/a8528a83c6af6685523850efe8df8c01.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/a8528a83c6af6685523850efe8df8c01.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/a8528a83c6af6685523850efe8df8c01.mp4?t=1784714077\" type=\"video/mp4\"></vid

@@ -1,0 +1,16 @@
+import { chromium } from "playwright";
+import fs from "fs";
+fs.mkdirSync("C:/Users/Administrator/agent-tools", { recursive: true });
+fs.mkdirSync("qa", { recursive: true });
+const browser = await chromium.launch({ headless: true });
+const page = await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
+page.on("pageerror", (e) => console.log("PAGEERROR", e.message));
+await page.goto("http://127.0.0.1:5188/", { waitUntil: "networkidle", timeout: 90000 });
+await page.waitForFunction(() => window.__coverReady === true, null, { timeout: 60000 });
+await page.waitForTimeout(2000);
+await page.screenshot({ path: "qa/hundred-after.png", type: "png" });
+fs.copyFileSync("qa/hundred-after.png", "C:/Users/Administrator/agent-tools/hundred-after.png");
+const man = await (await fetch("http://127.0.0.1:5188/covers/manifest.json")).json();
+console.log("manifest", man.length, "shot", fs.statSync("C:/Users/Administrator/agent-tools/hundred-after.png").size);
+console.log("sample new", man.slice(50, 55).map(g => g.zh || g.id).join(", "));
+await browser.close();

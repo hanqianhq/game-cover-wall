@@ -1,0 +1,1742 @@
+{
+  "rdr2": {
+    "appid": 1174180,
+    "tags": [
+      "开放世界",
+      "剧情丰富",
+      "西部",
+      "多人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 929064,
+    "year": 2019
+  },
+  "witcher-3": {
+    "appid": 292030,
+    "tags": [
+      "开放世界",
+      "角色扮演",
+      "剧情丰富",
+      "氛围"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 905116,
+    "year": 2015
+  },
+  "baldurs-gate-3": {
+    "appid": 1086940,
+    "tags": [
+      "角色扮演",
+      "角色自定义",
+      "选择取向",
+      "回合制战斗"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 862443,
+    "year": 2023
+  },
+  "skyrim": {
+    "appid": 489830,
+    "tags": [
+      "开放世界",
+      "角色扮演",
+      "奇幻",
+      "冒险"
+    ],
+    "review": "特别好评",
+    "reviewCount": 381091,
+    "year": 2016
+  },
+  "cyberpunk-2077": {
+    "appid": 1091500,
+    "tags": [
+      "赛博朋克",
+      "开放世界",
+      "裸露",
+      "角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 988205,
+    "year": 2020
+  },
+  "fallout-4": {
+    "appid": 377160,
+    "tags": [
+      "开放世界",
+      "后末日",
+      "单人",
+      "探索"
+    ],
+    "review": "特别好评",
+    "reviewCount": 430104,
+    "year": 2015
+  },
+  "hogwarts": {
+    "appid": 990080,
+    "tags": [
+      "魔法",
+      "开放世界",
+      "奇幻",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 375942,
+    "year": 2023
+  },
+  "kcd2": {
+    "appid": 1771300,
+    "tags": [
+      "角色扮演",
+      "中世纪",
+      "开放世界",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 198646,
+    "year": 2025
+  },
+  "black-myth-wukong": {
+    "appid": 2358720,
+    "tags": [
+      "神话",
+      "动作角色扮演",
+      "动作",
+      "类魂系列"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 1213975,
+    "year": 2024
+  },
+  "elden-ring": {
+    "appid": 1245620,
+    "tags": [
+      "类魂系列",
+      "开放世界",
+      "黑暗奇幻",
+      "角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 1159152,
+    "year": 2022
+  },
+  "sekiro": {
+    "appid": 814380,
+    "tags": [
+      "类魂系列",
+      "低容错",
+      "动作",
+      "单人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 358018,
+    "year": 2019
+  },
+  "ds3": {
+    "appid": 374320,
+    "tags": [
+      "类魂系列",
+      "黑暗奇幻",
+      "低容错",
+      "角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 442159,
+    "year": 2016
+  },
+  "mhw": {
+    "appid": 582010,
+    "tags": [
+      "合作",
+      "多人",
+      "动作",
+      "开放世界"
+    ],
+    "review": "特别好评",
+    "reviewCount": 519552,
+    "year": 2018
+  },
+  "mh-wilds": {
+    "appid": 2246340,
+    "tags": [
+      "狩猎",
+      "动作",
+      "多人",
+      "在线合作"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 333646,
+    "year": 2025
+  },
+  "gow": {
+    "appid": 1593500,
+    "tags": [
+      "动作",
+      "单人",
+      "剧情丰富",
+      "冒险"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 186112,
+    "year": 2022
+  },
+  "dmc5": {
+    "appid": 601150,
+    "tags": [
+      "动作",
+      "砍杀",
+      "好评原声音轨",
+      "角色动作"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 171832,
+    "year": 2019
+  },
+  "nier-automata": {
+    "appid": 524220,
+    "tags": [
+      "砍杀",
+      "角色扮演",
+      "好评原声音轨",
+      "剧情丰富"
+    ],
+    "review": "特别好评",
+    "reviewCount": 154304,
+    "year": 2017
+  },
+  "ghost-of-tsushima": {
+    "appid": 2215430,
+    "tags": [
+      "开放世界",
+      "动作",
+      "剧情丰富",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 97949,
+    "year": 2024
+  },
+  "terraria": {
+    "appid": 105600,
+    "tags": [
+      "开放世界生存制作",
+      "沙盒",
+      "生存",
+      "2D"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 1563433,
+    "year": 2011
+  },
+  "stardew": {
+    "appid": 413150,
+    "tags": [
+      "农场模拟",
+      "像素图形",
+      "多人",
+      "生活模拟"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 1045635,
+    "year": 2016
+  },
+  "civ6": {
+    "appid": 289070,
+    "tags": [
+      "策略",
+      "回合战略",
+      "多人",
+      "历史"
+    ],
+    "review": "特别好评",
+    "reviewCount": 380396,
+    "year": 2016
+  },
+  "bannerlord": {
+    "appid": 261550,
+    "tags": [
+      "中世纪",
+      "策略",
+      "开放世界",
+      "角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 299638,
+    "year": 2022
+  },
+  "cities-skylines": {
+    "appid": 255710,
+    "tags": [
+      "城市营造",
+      "模拟",
+      "建造",
+      "管理"
+    ],
+    "review": "特别好评",
+    "reviewCount": 291042,
+    "year": 2015
+  },
+  "rimworld": {
+    "appid": 294100,
+    "tags": [
+      "殖民模拟",
+      "基地建设",
+      "生存",
+      "策略"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 248316,
+    "year": 2018
+  },
+  "dyson-sphere": {
+    "appid": 1366540,
+    "tags": [
+      "自动化",
+      "太空",
+      "基地建设",
+      "建造"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 92010,
+    "year": 2021
+  },
+  "tww3": {
+    "appid": 1142710,
+    "tags": [
+      "策略",
+      "回合战略",
+      "大战略",
+      "即时战略"
+    ],
+    "review": "多半好评",
+    "reviewCount": 150718,
+    "year": 2022
+  },
+  "warhammer-tw3": {
+    "appid": 1142710,
+    "tags": [
+      "策略",
+      "回合战略",
+      "大战略",
+      "即时战略"
+    ],
+    "review": "多半好评",
+    "reviewCount": 150718,
+    "year": 2022
+  },
+  "sims4": {
+    "appid": 1222670,
+    "tags": [
+      "生活模拟",
+      "免费开玩",
+      "角色自定义",
+      "建造"
+    ],
+    "review": "特别好评",
+    "reviewCount": 201557,
+    "year": 2020
+  },
+  "hollow-knight": {
+    "appid": 367520,
+    "tags": [
+      "类银河战士恶魔城",
+      "平台游戏",
+      "类魂系列",
+      "低容错"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 565579,
+    "year": 2017
+  },
+  "silksong": {
+    "appid": 1030300,
+    "tags": [
+      "类银河战士恶魔城",
+      "低容错",
+      "独立",
+      "好评原声音轨"
+    ],
+    "review": "特别好评",
+    "reviewCount": 425872,
+    "year": 2025
+  },
+  "hades": {
+    "appid": 1145360,
+    "tags": [
+      "动作类 Rogue",
+      "轻度 Rogue",
+      "砍杀",
+      "独立"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 310105,
+    "year": 2020
+  },
+  "slay-the-spire": {
+    "appid": 646570,
+    "tags": [
+      "牌组构建式类 Rogue",
+      "卡牌游戏",
+      "卡牌战斗",
+      "类 Rogue"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 219528,
+    "year": 2019
+  },
+  "balatro": {
+    "appid": 2379780,
+    "tags": [
+      "卡牌游戏",
+      "类 Rogue",
+      "牌组构建式类 Rogue",
+      "牌组构建"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 200113,
+    "year": 2024
+  },
+  "vampire-survivors": {
+    "appid": 1794680,
+    "tags": [
+      "动作类 Rogue",
+      "弹幕射击",
+      "轻度 Rogue",
+      "像素图形"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 266514,
+    "year": 2022
+  },
+  "dead-cells": {
+    "appid": 588650,
+    "tags": [
+      "冒险",
+      "类 Rogue",
+      "类银河战士恶魔城",
+      "像素图形"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 184408,
+    "year": 2018
+  },
+  "isaac": {
+    "appid": 250900,
+    "tags": [
+      "动作类 Rogue",
+      "类 Rogue",
+      "独立",
+      "重玩价值"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 463504,
+    "year": 2014
+  },
+  "dave-diver": {
+    "appid": 1868140,
+    "tags": [
+      "像素图形",
+      "管理",
+      "休闲",
+      "冒险"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 164139,
+    "year": 2023
+  },
+  "celeste": {
+    "appid": 504230,
+    "tags": [
+      "精确平台",
+      "低容错",
+      "像素图形",
+      "好评原声音轨"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 148911,
+    "year": 2018
+  },
+  "re4r": {
+    "appid": 2050650,
+    "tags": [
+      "恐怖",
+      "动作",
+      "生存恐怖",
+      "第三人称射击"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 283695,
+    "year": 2023
+  },
+  "detroit": {
+    "appid": 1222140,
+    "tags": [
+      "选择取向",
+      "剧情丰富",
+      "多结局",
+      "电影式"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 267538,
+    "year": 2020
+  },
+  "tlou1": {
+    "appid": 1888930,
+    "tags": [
+      "剧情丰富",
+      "后末日",
+      "僵尸",
+      "恐怖"
+    ],
+    "review": "特别好评",
+    "reviewCount": 111759,
+    "year": 2023
+  },
+  "p5r": {
+    "appid": 1687950,
+    "tags": [
+      "日系角色扮演",
+      "剧情丰富",
+      "动漫",
+      "回合制战斗"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 142146,
+    "year": 2022
+  },
+  "dos2": {
+    "appid": 435150,
+    "tags": [
+      "角色扮演",
+      "战术角色扮演",
+      "回合战略",
+      "剧情丰富"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 206860,
+    "year": 2017
+  },
+  "dont-starve": {
+    "appid": 219740,
+    "tags": [
+      "生存",
+      "开放世界生存制作",
+      "制作",
+      "冒险"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 113644,
+    "year": 2013
+  },
+  "subnautica": {
+    "appid": 264710,
+    "tags": [
+      "开放世界生存制作",
+      "生存",
+      "恐怖",
+      "水底"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 381957,
+    "year": 2018
+  },
+  "spiderman": {
+    "appid": 1817070,
+    "tags": [
+      "开放世界",
+      "超级英雄",
+      "动作",
+      "单人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 145951,
+    "year": 2022
+  },
+  "disco-elysium": {
+    "appid": 632470,
+    "tags": [
+      "角色扮演",
+      "剧情丰富",
+      "选择取向",
+      "推理"
+    ],
+    "review": "特别好评",
+    "reviewCount": 132154,
+    "year": 2019
+  },
+  "pvz": {
+    "appid": 3590,
+    "tags": [
+      "塔防",
+      "僵尸",
+      "策略",
+      "单人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 156827,
+    "year": 2009
+  },
+  "gta5": {
+    "appid": 271590,
+    "tags": [
+      "开放世界",
+      "动作",
+      "多人",
+      "犯罪"
+    ],
+    "review": "特别好评",
+    "reviewCount": 2081787,
+    "year": 2015
+  },
+  "portal-2": {
+    "appid": 620,
+    "tags": [
+      "单人",
+      "平台游戏",
+      "解谜",
+      "第一人称"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 468634,
+    "year": 2011
+  },
+  "half-life-alyx": {
+    "appid": 546560,
+    "tags": [
+      "虚拟现实",
+      "第一人称射击",
+      "剧情丰富",
+      "恐怖"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 105899,
+    "year": 2020
+  },
+  "doom-eternal": {
+    "appid": 782330,
+    "tags": [
+      "鲜血",
+      "第一人称射击",
+      "动作",
+      "好评原声音轨"
+    ],
+    "review": "特别好评",
+    "reviewCount": 217883,
+    "year": 2020
+  },
+  "l4d2": {
+    "appid": 550,
+    "tags": [
+      "僵尸",
+      "合作",
+      "第一人称射击",
+      "多人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 1065278,
+    "year": 2009
+  },
+  "cs2": {
+    "appid": 730,
+    "tags": [
+      "第一人称射击",
+      "射击",
+      "多人",
+      "竞技"
+    ],
+    "review": "特别好评",
+    "reviewCount": 9929913,
+    "year": 2012
+  },
+  "pubg": {
+    "appid": 578080,
+    "tags": [
+      "生存",
+      "射击",
+      "大逃杀",
+      "多人"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 2748178,
+    "year": 2017
+  },
+  "helldivers-2": {
+    "appid": 553850,
+    "tags": [
+      "在线合作",
+      "玩家对战环境",
+      "第三人称射击",
+      "多人"
+    ],
+    "review": "多半好评",
+    "reviewCount": 1167337,
+    "year": 2024
+  },
+  "deep-rock": {
+    "appid": 548430,
+    "tags": [
+      "矮人",
+      "合作",
+      "玩家对战环境",
+      "第一人称射击"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 381028,
+    "year": 2020
+  },
+  "forza-horizon-5": {
+    "appid": 1551360,
+    "tags": [
+      "竞速",
+      "开放世界",
+      "驾驶",
+      "多人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 283422,
+    "year": 2021
+  },
+  "rocket-league": {
+    "appid": 252950,
+    "tags": [
+      "多人",
+      "足球",
+      "竞技",
+      "体育"
+    ],
+    "review": "特别好评",
+    "reviewCount": 580357,
+    "year": 2015
+  },
+  "factorio": {
+    "appid": 427520,
+    "tags": [
+      "自动化",
+      "基地建设",
+      "资源管理",
+      "沙盒"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 235957,
+    "year": 2020
+  },
+  "satisfactory": {
+    "appid": 526870,
+    "tags": [
+      "基地建设",
+      "自动化",
+      "开放世界",
+      "制作"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 281391,
+    "year": 2024
+  },
+  "stellaris": {
+    "appid": 281990,
+    "tags": [
+      "太空",
+      "策略",
+      "大战略",
+      "科幻"
+    ],
+    "review": "特别好评",
+    "reviewCount": 197103,
+    "year": 2016
+  },
+  "ck3": {
+    "appid": 1158310,
+    "tags": [
+      "策略",
+      "中世纪",
+      "大战略",
+      "模拟"
+    ],
+    "review": "特别好评",
+    "reviewCount": 142728,
+    "year": 2020
+  },
+  "aoe2": {
+    "appid": 813780,
+    "tags": [
+      "策略",
+      "即时战略",
+      "城市营造",
+      "多人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 183450,
+    "year": 2019
+  },
+  "undertale": {
+    "appid": 391540,
+    "tags": [
+      "好评原声音轨",
+      "剧情丰富",
+      "选择取向",
+      "多结局"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 345468,
+    "year": 2015
+  },
+  "outer-wilds": {
+    "appid": 753640,
+    "tags": [
+      "探索",
+      "太空",
+      "悬疑",
+      "剧情丰富"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 109406,
+    "year": 2020
+  },
+  "it-takes-two": {
+    "appid": 1426210,
+    "tags": [
+      "合作",
+      "多人",
+      "分屏",
+      "本地合作"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 272317,
+    "year": 2021
+  },
+  "phasmophobia": {
+    "appid": 739630,
+    "tags": [
+      "恐怖",
+      "在线合作",
+      "多人",
+      "心理恐怖"
+    ],
+    "review": "特别好评",
+    "reviewCount": 841530,
+    "year": 2020
+  },
+  "lethal-company": {
+    "appid": 1966720,
+    "tags": [
+      "在线合作",
+      "恐怖",
+      "第一人称",
+      "合作"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 511440,
+    "year": 2023
+  },
+  "sf6": {
+    "appid": 1364780,
+    "tags": [
+      "2D 格斗",
+      "格斗",
+      "街机",
+      "角色自定义"
+    ],
+    "review": "特别好评",
+    "reviewCount": 81364,
+    "year": 2023
+  },
+  "tekken-8": {
+    "appid": 1778820,
+    "tags": [
+      "格斗",
+      "3D 格斗",
+      "多人",
+      "动作"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 73161,
+    "year": 2024
+  },
+  "death-stranding": {
+    "appid": 1190460,
+    "tags": [
+      "步行模拟",
+      "开放世界",
+      "剧情丰富",
+      "好评原声音轨"
+    ],
+    "review": "特别好评",
+    "reviewCount": 79161,
+    "year": 2020
+  },
+  "horizon-zd": {
+    "appid": 1151640,
+    "tags": [
+      "开放世界",
+      "冒险",
+      "女性主角",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 128370,
+    "year": 2020
+  },
+  "uncharted": {
+    "appid": 1659420,
+    "tags": [
+      "冒险",
+      "剧情丰富",
+      "动作冒险",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 44663,
+    "year": 2022
+  },
+  "like-a-dragon": {
+    "appid": 1235140,
+    "tags": [
+      "角色扮演",
+      "冒险",
+      "动作",
+      "回合制战斗"
+    ],
+    "review": "特别好评",
+    "reviewCount": 37763,
+    "year": 2020
+  },
+  "ff7-remake": {
+    "appid": 1462040,
+    "tags": [
+      "角色扮演",
+      "动作角色扮演",
+      "日系角色扮演",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 54621,
+    "year": 2022
+  },
+  "p4g": {
+    "appid": 1113000,
+    "tags": [
+      "日系角色扮演",
+      "好评原声音轨",
+      "剧情丰富",
+      "动漫"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 87982,
+    "year": 2020
+  },
+  "valheim": {
+    "appid": 892970,
+    "tags": [
+      "开放世界生存制作",
+      "生存",
+      "在线合作",
+      "开放世界"
+    ],
+    "review": "特别好评",
+    "reviewCount": 560994,
+    "year": 2026
+  },
+  "rust": {
+    "appid": 252490,
+    "tags": [
+      "生存",
+      "制作",
+      "多人",
+      "开放世界"
+    ],
+    "review": "特别好评",
+    "reviewCount": 1407820,
+    "year": 2018
+  },
+  "palworld": {
+    "appid": 1623730,
+    "tags": [
+      "开放世界",
+      "生存",
+      "生物收集",
+      "多人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 493257,
+    "year": 2026
+  },
+  "sons-of-forest": {
+    "appid": 1326470,
+    "tags": [
+      "生存",
+      "开放世界",
+      "多人",
+      "合作"
+    ],
+    "review": "特别好评",
+    "reviewCount": 323245,
+    "year": 2024
+  },
+  "among-us": {
+    "appid": 945360,
+    "tags": [
+      "多人",
+      "社交推理",
+      "在线合作",
+      "太空"
+    ],
+    "review": "特别好评",
+    "reviewCount": 751442,
+    "year": 2018
+  },
+  "no-mans-sky": {
+    "appid": 275850,
+    "tags": [
+      "开放世界",
+      "太空",
+      "开放世界生存制作",
+      "探索"
+    ],
+    "review": "特别好评",
+    "reviewCount": 423269,
+    "year": 2016
+  },
+  "starfield": {
+    "appid": 1716740,
+    "tags": [
+      "太空",
+      "开放世界",
+      "单人",
+      "角色扮演"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 175781,
+    "year": 2023
+  },
+  "warframe": {
+    "appid": 230410,
+    "tags": [
+      "免费开玩",
+      "刷宝射击游戏",
+      "动作角色扮演",
+      "第三人称射击"
+    ],
+    "review": "特别好评",
+    "reviewCount": 680312,
+    "year": 2013
+  },
+  "apex": {
+    "appid": 1172470,
+    "tags": [
+      "免费开玩",
+      "多人",
+      "大逃杀",
+      "第一人称射击"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 1073875,
+    "year": 2020
+  },
+  "naraka": {
+    "appid": 1203220,
+    "tags": [
+      "大逃杀",
+      "多人",
+      "武术",
+      "玩家对战"
+    ],
+    "review": "多半好评",
+    "reviewCount": 303319,
+    "year": 2021
+  },
+  "hades-2": {
+    "appid": 1145350,
+    "tags": [
+      "动作",
+      "类 Rogue",
+      "轻度 Rogue",
+      "砍杀"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 124324,
+    "year": 2025
+  },
+  "animal-well": {
+    "appid": 813230,
+    "tags": [
+      "类银河战士恶魔城",
+      "探索",
+      "解谜",
+      "像素图形"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 24784,
+    "year": 2024
+  },
+  "against-storm": {
+    "appid": 1336490,
+    "tags": [
+      "策略",
+      "模拟",
+      "城市营造",
+      "基地建设"
+    ],
+    "review": "特别好评",
+    "reviewCount": 37771,
+    "year": 2023
+  },
+  "metro-exodus": {
+    "appid": 412020,
+    "tags": [
+      "后末日",
+      "第一人称射击",
+      "单人",
+      "开放世界"
+    ],
+    "review": "特别好评",
+    "reviewCount": 137073,
+    "year": 2020
+  },
+  "control": {
+    "appid": 870780,
+    "tags": [
+      "动作",
+      "灵异",
+      "女性主角",
+      "剧情丰富"
+    ],
+    "review": "特别好评",
+    "reviewCount": 66284,
+    "year": 2020
+  },
+  "re-village": {
+    "appid": 1196590,
+    "tags": [
+      "生存恐怖",
+      "恐怖",
+      "第一人称",
+      "单人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 155787,
+    "year": 2021
+  },
+  "re2r": {
+    "appid": 883710,
+    "tags": [
+      "僵尸",
+      "生存恐怖",
+      "恐怖",
+      "单人"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 226545,
+    "year": 2019
+  },
+  "gow-ragnarok": {
+    "appid": 2322010,
+    "tags": [
+      "动作",
+      "冒险",
+      "动作冒险",
+      "角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 50984,
+    "year": 2024
+  },
+  "spider-man-2": {
+    "appid": 2651280,
+    "tags": [
+      "动作",
+      "开放世界",
+      "单人",
+      "超级英雄"
+    ],
+    "review": "特别好评",
+    "reviewCount": 49217,
+    "year": 2025
+  },
+  "tlou2": {
+    "appid": 2531310,
+    "tags": [
+      "剧情丰富",
+      "后末日",
+      "第三人称射击",
+      "动作冒险"
+    ],
+    "review": "特别好评",
+    "reviewCount": 57726,
+    "year": 2025
+  },
+  "sea-of-thieves": {
+    "appid": 1172620,
+    "tags": [
+      "多人",
+      "开放世界",
+      "冒险",
+      "海盗"
+    ],
+    "review": "特别好评",
+    "reviewCount": 374164,
+    "year": 2020
+  },
+  "zzz": {
+    "appid": 4162040,
+    "tags": [
+      "动漫",
+      "免费开玩",
+      "动作",
+      "欢乐"
+    ],
+    "review": "特别好评",
+    "reviewCount": 17985,
+    "year": 2026
+  },
+  "honkai-3rd": {
+    "appid": 1671200,
+    "tags": [
+      "免费开玩",
+      "动漫",
+      "动作",
+      "角色扮演"
+    ],
+    "review": "多半好评",
+    "reviewCount": 10025,
+    "year": 2021
+  },
+  "wuthering-waves": {
+    "appid": 3513350,
+    "tags": [
+      "开放世界",
+      "动漫",
+      "免费开玩",
+      "动作"
+    ],
+    "review": "特别好评",
+    "reviewCount": 57409,
+    "year": 2025
+  },
+  "reverse-1999": {
+    "appid": 3092660,
+    "tags": [
+      "角色扮演",
+      "剧情丰富",
+      "视觉小说",
+      "回合制战斗"
+    ],
+    "review": "特别好评",
+    "reviewCount": 5310,
+    "year": 2024
+  },
+  "pgr": {
+    "appid": 4125930,
+    "tags": [
+      "动作",
+      "角色扮演",
+      "动漫",
+      "免费开玩"
+    ],
+    "review": "多半好评",
+    "reviewCount": 1743,
+    "year": 2026
+  },
+  "nikke": {
+    "appid": 3596190,
+    "tags": [
+      "动作",
+      "女性主角",
+      "冒险",
+      "砍杀"
+    ],
+    "review": "多半好评",
+    "reviewCount": 677,
+    "year": 2025
+  },
+  "blue-archive": {
+    "appid": 3557620,
+    "tags": [
+      "可爱",
+      "欢乐",
+      "动漫",
+      "史诗级"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 28258,
+    "year": 2025
+  },
+  "arknights-endfield": {
+    "appid": 4732690,
+    "tags": [
+      "动漫",
+      "冒险",
+      "自动化",
+      "基地建设"
+    ],
+    "review": "特别好评",
+    "reviewCount": 1732,
+    "year": 2026
+  },
+  "lies-of-p": {
+    "appid": 1627720,
+    "tags": [
+      "类魂系列",
+      "黑暗奇幻",
+      "动作",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 83982,
+    "year": 2023
+  },
+  "armored-core-6": {
+    "appid": 1888160,
+    "tags": [
+      "机甲",
+      "角色自定义",
+      "动作",
+      "机器人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 86392,
+    "year": 2023
+  },
+  "remnant-2": {
+    "appid": 1282100,
+    "tags": [
+      "类魂系列",
+      "合作",
+      "动作",
+      "第三人称射击"
+    ],
+    "review": "特别好评",
+    "reviewCount": 69573,
+    "year": 2023
+  },
+  "dragons-dogma-2": {
+    "appid": 2054970,
+    "tags": [
+      "开放世界",
+      "角色扮演",
+      "动作角色扮演",
+      "奇幻"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 119501,
+    "year": 2024
+  },
+  "alan-wake-2": {
+    "appid": 1937780,
+    "tags": [
+      "策略",
+      "即时战略",
+      "大战略",
+      "战术"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 5433,
+    "year": 2023
+  },
+  "stellar-blade": {
+    "appid": 3489700,
+    "tags": [
+      "女性主角",
+      "动作",
+      "色情内容",
+      "砍杀"
+    ],
+    "review": "特别好评",
+    "reviewCount": 95771,
+    "year": 2025
+  },
+  "ff16": {
+    "appid": 2515020,
+    "tags": [
+      "动作角色扮演",
+      "剧情丰富",
+      "华丽格斗",
+      "日系角色扮演"
+    ],
+    "review": "多半好评",
+    "reviewCount": 34206,
+    "year": 2024
+  },
+  "expedition-33": {
+    "appid": 1903340,
+    "tags": [
+      "回合制战斗",
+      "剧情丰富",
+      "奇幻",
+      "好评原声音轨"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 281110,
+    "year": 2025
+  },
+  "enshrouded": {
+    "appid": 1203620,
+    "tags": [
+      "开放世界",
+      "生存",
+      "基地建设",
+      "多人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 108455,
+    "year": 2026
+  },
+  "v-rising": {
+    "appid": 1604030,
+    "tags": [
+      "生存",
+      "开放世界",
+      "基地建设",
+      "吸血鬼"
+    ],
+    "review": "特别好评",
+    "reviewCount": 137725,
+    "year": 2024
+  },
+  "core-keeper": {
+    "appid": 1621690,
+    "tags": [
+      "开放世界",
+      "生存",
+      "探索",
+      "像素图形"
+    ],
+    "review": "特别好评",
+    "reviewCount": 67922,
+    "year": 2024
+  },
+  "grounded": {
+    "appid": 962130,
+    "tags": [
+      "生存",
+      "多人",
+      "合作",
+      "开放世界生存制作"
+    ],
+    "review": "特别好评",
+    "reviewCount": 96199,
+    "year": 2022
+  },
+  "once-human": {
+    "appid": 2139460,
+    "tags": [
+      "开放世界",
+      "生存",
+      "基地建设",
+      "多人"
+    ],
+    "review": "多半好评",
+    "reviewCount": 191322,
+    "year": 2024
+  },
+  "hellblade-2": {
+    "appid": 2461850,
+    "tags": [
+      "动作冒险",
+      "心理恐怖",
+      "剧情丰富",
+      "女性主角"
+    ],
+    "review": "特别好评",
+    "reviewCount": 10211,
+    "year": 2024
+  },
+  "persona-3-reload": {
+    "appid": 2161700,
+    "tags": [
+      "日系角色扮演",
+      "动漫",
+      "角色扮演",
+      "团队角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 65965,
+    "year": 2024
+  },
+  "metaphor": {
+    "appid": 2679460,
+    "tags": [
+      "角色扮演",
+      "回合制战斗",
+      "日系角色扮演",
+      "动漫"
+    ],
+    "review": "特别好评",
+    "reviewCount": 43677,
+    "year": 2024
+  },
+  "space-marine-2": {
+    "appid": 2183900,
+    "tags": [
+      "合作",
+      "动作",
+      "多人",
+      "第三人称射击"
+    ],
+    "review": "特别好评",
+    "reviewCount": 230369,
+    "year": 2024
+  },
+  "destiny-2": {
+    "appid": 1085660,
+    "tags": [
+      "免费开玩",
+      "开放世界",
+      "刷宝射击游戏",
+      "多人"
+    ],
+    "review": "多半好评",
+    "reviewCount": 663768,
+    "year": 2019
+  },
+  "pathfinder-wotr": {
+    "appid": 1184370,
+    "tags": [
+      "角色扮演",
+      "选择取向",
+      "电脑角色扮演",
+      "单人"
+    ],
+    "review": "特别好评",
+    "reviewCount": 44669,
+    "year": 2021
+  },
+  "code-vein": {
+    "appid": 678960,
+    "tags": [
+      "类魂系列",
+      "动漫",
+      "角色自定义",
+      "动作角色扮演"
+    ],
+    "review": "特别好评",
+    "reviewCount": 62808,
+    "year": 2019
+  },
+  "nioh-2": {
+    "appid": 1325200,
+    "tags": [
+      "动作",
+      "角色扮演",
+      "角色自定义",
+      "类魂系列"
+    ],
+    "review": "特别好评",
+    "reviewCount": 50770,
+    "year": 2021
+  },
+  "team-fortress-2": {
+    "appid": 440,
+    "tags": [
+      "免费开玩",
+      "英雄射击",
+      "多人",
+      "第一人称射击"
+    ],
+    "review": "特别好评",
+    "reviewCount": 1254755,
+    "year": 2007
+  },
+  "dota-2": {
+    "appid": 570,
+    "tags": [
+      "免费开玩",
+      "多人在线战术竞技",
+      "多人",
+      "策略"
+    ],
+    "review": "特别好评",
+    "reviewCount": 2799644,
+    "year": 2013
+  },
+  "mhrise": {
+    "appid": 1446780,
+    "tags": [
+      "动作",
+      "狩猎",
+      "在线合作",
+      "角色自定义"
+    ],
+    "review": "特别好评",
+    "reviewCount": 128045,
+    "year": 2022
+  },
+  "sea-of-stars": {
+    "appid": 1244090,
+    "tags": [
+      "像素图形",
+      "日系角色扮演",
+      "回合制战斗",
+      "本地合作"
+    ],
+    "review": "特别好评",
+    "reviewCount": 15723,
+    "year": 2023
+  },
+  "slay-spire-2": {
+    "appid": 2868840,
+    "tags": [
+      "类 Rogue",
+      "卡牌游戏",
+      "牌组构建",
+      "合作"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 205453,
+    "year": 2026
+  },
+  "peak": {
+    "appid": 3527290,
+    "tags": [
+      "多人",
+      "在线合作",
+      "合作",
+      "冒险"
+    ],
+    "review": "特别好评",
+    "reviewCount": 380307,
+    "year": 2025
+  },
+  "repo": {
+    "appid": 3241660,
+    "tags": [
+      "恐怖",
+      "在线合作",
+      "多人",
+      "喜剧"
+    ],
+    "review": "好评如潮",
+    "reviewCount": 429225,
+    "year": 2025
+  },
+  "inzoi": {
+    "appid": 2456740,
+    "tags": [
+      "生活模拟",
+      "角色自定义",
+      "模拟",
+      "拟真"
+    ],
+    "review": "多半好评",
+    "reviewCount": 33427,
+    "year": 2025
+  },
+  "frostpunk-2": {
+    "appid": 1601580,
+    "tags": [
+      "城市营造",
+      "策略",
+      "生存",
+      "资源管理"
+    ],
+    "review": "多半好评",
+    "reviewCount": 27374,
+    "year": 2024
+  },
+  "manor-lords": {
+    "appid": 1363080,
+    "tags": [
+      "策略",
+      "城市营造",
+      "模拟",
+      "基地建设"
+    ],
+    "review": "特别好评",
+    "reviewCount": 92756,
+    "year": 2024
+  },
+  "civ7": {
+    "appid": 1295660,
+    "tags": [
+      "大战略",
+      "城市营造",
+      "4X",
+      "历史"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 62743,
+    "year": 2025
+  },
+  "silent-hill-2": {
+    "appid": 2124490,
+    "tags": [
+      "心理恐怖",
+      "恐怖",
+      "剧情丰富",
+      "生存恐怖"
+    ],
+    "review": "特别好评",
+    "reviewCount": 66445,
+    "year": 2024
+  },
+  "until-dawn": {
+    "appid": 2172010,
+    "tags": [
+      "选择取向",
+      "恐怖",
+      "多结局",
+      "冒险"
+    ],
+    "review": "特别好评",
+    "reviewCount": 5408,
+    "year": 2024
+  },
+  "marvel-rivals": {
+    "appid": 2767030,
+    "tags": [
+      "免费开玩",
+      "多人",
+      "英雄射击",
+      "第三人称射击"
+    ],
+    "review": "多半好评",
+    "reviewCount": 422573,
+    "year": 2024
+  },
+  "delta-force": {
+    "appid": 2507950,
+    "tags": [
+      "免费开玩",
+      "第一人称射击",
+      "多人",
+      "撤离射击"
+    ],
+    "review": "褒贬不一",
+    "reviewCount": 198514,
+    "year": 2024
+  },
+  "the-finals": {
+    "appid": 2073850,
+    "tags": [
+      "破坏",
+      "免费开玩",
+      "第一人称射击",
+      "多人"
+    ],
+    "review": "多半好评",
+    "reviewCount": 278067,
+    "year": 2023
+  },
+  "age-of-mythology-retold": {
+    "appid": 1934680,
+    "tags": [
+      "即时战略",
+      "策略",
+      "基地建设",
+      "3D"
+    ],
+    "review": "特别好评",
+    "reviewCount": 23745,
+    "year": 2024
+  },
+  "nightreign": {
+    "appid": 2778580,
+    "tags": [
+      "动作",
+      "角色扮演",
+      "类魂系列",
+      "低容错"
+    ],
+    "review": "多半好评",
+    "reviewCount": 104314,
+    "year": 2024
+  }
+}

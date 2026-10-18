@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="游戏封面墙" />
+    <title>游戏封面墙 · visual-lab</title>
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="c"></canvas>
+      <div id="vignette" aria-hidden="true"></div>
+      <div id="hud">
+        <h1>游戏封面墙</h1>
+        <p>拖动浏览封面 · 点击即可飞出</p>
+        <p class="hint" id="backend">WebGL</p>
+      </div>
+      <div id="focus" hidden>
+        <div class="focus-card" role="dialog" aria-modal="true">
+          <button type="button" id="focus-close" aria-label="关闭">×</button>
+          <h2 id="focus-title"></h2>
+          <p id="focus-en" class="focus-en"></p>
+          <div id="focus-tags" class="focus-tags" hidden></div>
+          <p id="focus-meta" class="focus-meta" hidden>
+            <span id="focus-review" hidden></span>
+            <span id="focus-year" hidden></span>
+          </p>
+          <p id="focus-blurb"></p>
+          <p class="focus-hint">按 Esc / 点空白 / × · 飞回</p>
+        </div>
+      </div>
+      <div id="fallback" hidden>
+        <strong>当前浏览器无法初始化 WebGL</strong>
+        <p>请换 Chrome / Edge / Firefox 最新版再试。</p>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
